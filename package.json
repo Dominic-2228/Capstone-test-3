@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dominic-2228.github.io/Capstone-test-2",
+  "homepage": "http://dominic-2228.github.io/Capstone-test-3",
   "name": "capstone-bibleverse",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "start": "json-server --watch src/api/bible.json --port 8000"
+    "start": "json-server --watch bible.json --port 8000"
   },
   "dependencies": {
     "bootstrap": "^5.3.6",
